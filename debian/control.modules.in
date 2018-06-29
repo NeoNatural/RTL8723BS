@@ -1,10 +1,10 @@
 Source: rtl8723bs-mp-driver
 Section: main/kernel
 Priority: optional
-Maintainer: Jason Abele <jason@nextthing.co>
+Maintainer: Alex Kaplan <kaplan2539@gmail.com>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.4
-Homepage: https://github.com/NextThingCo/RTL8723BS
+Homepage: https://github.com/kaplan2539/RTL8723BS
 
 Package: rtl8723bs-mp-driver-modules-_KVERS_
 Architecture: all
